@@ -1,5 +1,4 @@
 print("Feature")
-def x():
-  print(5)
 
-x()
+def get_value():
+    return 5
