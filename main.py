@@ -1,2 +1,2 @@
 # The first project.
-print('main')
+print('Main')
