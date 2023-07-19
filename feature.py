@@ -1,5 +1,5 @@
 print("Feature")
-def x:
+def x():
   print(5)
 
 x()
